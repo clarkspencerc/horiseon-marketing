@@ -6,6 +6,7 @@ refactored CSS for the new semantic elements
 moved footer next to header in css 
 added classes & divs for services section and condensed the CSS for services section
 moved font family and color to body CSS selector to make code more DRY 
+added alt text to images and moved hero image to html 
 
 ## Purpose 
 
